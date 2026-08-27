@@ -146,6 +146,7 @@ helm/**/.values.yaml
 # AI Assistants
 /.claude/
 /.codex/
+/.local/
 /.cursor/
 /.copilot/
 /.aider/
